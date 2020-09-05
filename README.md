@@ -28,3 +28,10 @@ This is a simple text editor (like nano, vim, or emacs) run on a Linux shell win
 This project was created in my ICS 45C Spring 2020 course. https://www.ics.uci.edu/~thornton/ics45c/ProjectGuide/Project4/
 
 I am unable to publicly post my code for this project online because that would violated my university's plagerism guidelines. If you are a hiring manager, please contact me if you would like me to share my code.
+
+- C++
+- GUI
+- Inheritance
+- Polymorphism
+- Vector
+- Command Pattern
