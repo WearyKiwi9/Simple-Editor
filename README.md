@@ -4,4 +4,3 @@ It's a dramatically simplified version of an editor like vim or emacs, completel
 
 ### Walkthough GIF
 
-<img src="https://github.com/WearyKiwi9/Text-Editor/blob/master/Walkthough%20(Simple%20Editor).gif" width=1000><br>
