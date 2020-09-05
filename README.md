@@ -1,5 +1,5 @@
 # Simple Text Editor
-This is a simple text editor (like nano, vim, or emacs) run on a Linux shell window in C++.
+This is a simple text editor (like nano, vim, or emacs) run on a Linux shell window writen in C++. While it doesn't load or save the contents of files, and it doesn't have the same rich array of commands that you might expect to see in a "real" text editor, it does form the basis of my exploration of a few key C++ and object-oriented programming concepts.
 
 ### User Stories
 
@@ -27,4 +27,6 @@ This is a simple text editor (like nano, vim, or emacs) run on a Linux shell win
 <img src="https://github.com/WearyKiwi9/Text-Editor/blob/master/Walkthrough.gif" width=1000><br>
 
 ### Notes
-I cannot post my code for this project because that would violated...
+This project was created in my ICS 45C Spring 2020 course. https://www.ics.uci.edu/~thornton/ics45c/ProjectGuide/Project4/
+
+I am unable to publicly post my code for this project online because that would violated my university's plagerism guidelines. 
