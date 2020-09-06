@@ -1,5 +1,5 @@
 # Simple Text Editor
-This is a simple text editor (like nano, vim, or emacs) run on a Linux shell window writen in C++. While it doesn't load or save the contents of files, and it doesn't have the same rich array of commands that you might expect to see in a "real" text editor, it does form the basis of my exploration of a few key C++ and object-oriented programming concepts.
+This is a simple text editor (like nano, vim, or emacs) run on a Linux shell window written in C++. While it doesn't load or save the contents of files, and it doesn't have the same rich array of commands that you might expect to see in a "real" text editor, it does form the basis of my exploration of a few key C++ and object-oriented programming concepts.
 
 ### Features
 - [x] A moveable cursor depicting the current editting position
